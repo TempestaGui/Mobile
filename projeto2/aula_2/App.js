@@ -7,7 +7,6 @@ import TotalDespesa from './screens/TodasDespesas';
 import { NavigationContainer } from '@react-navigation/native';
 import GerenciarDespesa from './screens/GerenciarDespesas';
 
-
 export default function App() {
 
  const Tab = createBottomTabNavigator();
